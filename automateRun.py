@@ -1,7 +1,7 @@
 
 
 #Imports main cleaning file
-import main
+import script
 
 #Date time library for getting the time
 import datetime
@@ -27,7 +27,7 @@ while True:
 		
 		#Cleans each location
 		for location in locations:
-			main.prunePath(location)
+			script.prunePath(location)
 		
 		#Displays time of clean
 		print("At: ", datetime.datetime.now())
