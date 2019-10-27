@@ -22,3 +22,4 @@ For the script to work the user running it needs read&write permissions for the 
 <li>There are probably also better ways of keeping something running instead of having a terminal window open all the time too - I also intend to change this</li>
 <li>It does need to be run on the remote Mac so you would need access to it to set it up</li>
 </ul> 
+<p></p>
